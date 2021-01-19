@@ -17,7 +17,6 @@ I am hungry to dive into the depths of Backend and DevOps. ✨😍
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=764abc)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb)
-![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=ff9900)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
 
 ### Find me elsewhere 🌎
