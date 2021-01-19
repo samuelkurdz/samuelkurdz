@@ -1,14 +1,24 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Samuel Adebayo]!
 
-I work as a ~~front-end developer~~ front-end engineer going fullstack. I´m based in Lagos, Nigeria.
+I am a front-end engineer with 2 years professional experience. I am currently working on going fullstack. I´m based in Lagos, Nigeria.
 
 I am hungry to dive into the depths of Backend and DevOps. ✨😍
 
-### What I'm doing 👨‍💻
+### Stuff I'm really good at
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]()
+![Angular](https://img.shields.io/badge/-Angular-ff0000?&logo=Angular)
+![Vue](https://img.shields.io/badge/-Vue.js-fff?&logo=Vue.js)
+![nuxt](https://img.shields.io/badge/-nuxt.js-fff?&logo=nuxt.js)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
+![Mongodb](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb)
 
-I currently work with Angular and NodeJS.
-I have effieciently used VueJS for some projects
-Currently improving my React and Node skills<br />
+### Other Languages & Technologies I am getting better at
+
+![React](https://img.shields.io/badge/-React-fff?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=764abc)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
+![Mongodb](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb)
+![Sass](https://img.shields.io/badge/-Sass-fff?&logo=sass&logoColor=1572b6)
 
 ### Find me elsewhere 🌎
 
