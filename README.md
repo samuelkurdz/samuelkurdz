@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Samuel Adebayo]!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Samuel Adebayo!
 
 I am a front-end engineer with 2 years professional experience. I am currently working on going fullstack. I´m based in Lagos, Nigeria.
 
