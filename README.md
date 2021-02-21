@@ -7,15 +7,12 @@ I am hungry to dive into the depths of Backend and DevOps. ✨😍
 ### Stuff I'm really good at
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]()
 ![Angular](https://img.shields.io/badge/-Angular-ff0000?&logo=Angular)
-![Vue](https://img.shields.io/badge/-Vue.js-fff?&logo=Vue.js)
-![nuxt](https://img.shields.io/badge/-nuxt.js-fff?&logo=nuxt.js)
-![Sass](https://img.shields.io/badge/-Sass-fff?&logo=sass&logoColor=1572b6)
-
-### Other Languages & Technologies I am getting better at
-
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=764abc)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
+![Sass](https://img.shields.io/badge/-Sass-fff?&logo=sass&logoColor=1572b6)
+
+### Other Languages & Technologies I am getting better at
 ![Mongodb](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
 
