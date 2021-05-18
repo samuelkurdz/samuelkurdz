@@ -1,8 +1,9 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Samuel Adebayo!
 
-I am a front-end engineer with 2 years professional experience. I am currently working on going fullstack. I´m based in Lagos, Nigeria.
+I am a front-end engineer with 2 years professional experience. I´m based in Lagos, Nigeria.
+<!-- I am currently working on going fullstack. I´m based in Lagos, Nigeria.
 
-I am hungry to dive into the depths of Backend and DevOps. ✨😍
+I am hungry to dive into the depths of Backend and DevOps. ✨😍 -->
 
 ### Stuff I'm really good at
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]()
@@ -14,7 +15,7 @@ I am hungry to dive into the depths of Backend and DevOps. ✨😍
 ### Other Languages & Technologies I am getting better at
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
+<!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
 
 ### Find me elsewhere 🌎
 
