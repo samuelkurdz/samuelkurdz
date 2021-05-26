@@ -7,7 +7,8 @@ I am hungry to dive into the depths of Backend and DevOps. ✨😍 -->
 
 ### Stuff I'm really good at
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]()
-![Angular](https://img.shields.io/badge/-Angular-ff0000?&logo=Angular)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=0000FF)]()
+![Angular](https://img.shields.io/badge/-Angular-fff?&logo=Angular&logoColor=FF0000)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=764abc)
 ![Sass](https://img.shields.io/badge/-Sass-fff?&logo=sass&logoColor=1572b6)
