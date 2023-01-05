@@ -12,9 +12,10 @@ I am hungry to dive into the depths of Backend and DevOps. ✨😍 -->
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=764abc)
 ![Sass](https://img.shields.io/badge/-Sass-fff?&logo=sass&logoColor=FF1493)
+![Nestjs](https://img.shields.io/badge/-Nestjs-fff?&logo=Nestjs&logoColor=FF0000)
 
 ### Other Languages & Technologies I am getting better at
-![Nodejs](https://img.shields.io/badge/-NodeJS-fff?&logo=nodejs)
+![NodeJS](https://img.shields.io/badge/-NodeJS-fff?&logo=NodeJS)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
 
