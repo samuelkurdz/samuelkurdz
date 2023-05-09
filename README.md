@@ -15,7 +15,7 @@ I am hungry to dive into the depths of Backend and DevOps. ✨😍 -->
 ![Nestjs](https://img.shields.io/badge/-Nestjs-fff?&logo=Nestjs&logoColor=FF0000)
 
 ### Other Languages & Technologies I am getting better at
-![NodeJS](https://img.shields.io/badge/-Nodejs-fff?&logo=Nodejs)
+![NodeJS](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker) -->
 
